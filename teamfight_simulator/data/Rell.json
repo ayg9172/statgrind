@@ -1,0 +1,1 @@
+{"Name":"Rell","Role":"Magic Tank","Position":"Front","Cost":2,"HexRange":1,"Health":[800,1440,2592],"StartMana":40,"Mana":90,"AttackDamage":[60,90,135],"Armor":45,"MagicResist":45,"AttackSpeed":0.6,"Traits":["Conqueror","Sentinel","Visionary"]}

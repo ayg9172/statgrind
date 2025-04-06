@@ -1,0 +1,1 @@
+{"Name":"Maddie","Role":"Attack Caster","Position":"Back","Cost":1,"HexRange":6,"Health":[500,900,1620],"StartMana":20,"Mana":120,"AttackDamage":[50,75,113],"Armor":15,"MagicResist":15,"AttackSpeed":0.7,"Traits":["Enforcer","Sniper"]}

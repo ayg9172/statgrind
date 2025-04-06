@@ -1,0 +1,1 @@
+{"Name":"Darius","Role":"Attack Fighter","Position":"Front","Cost":1,"HexRange":1,"Health":[600,1080,1944],"StartMana":30,"Mana":70,"AttackDamage":[55,83,124],"Armor":40,"MagicResist":40,"AttackSpeed":0.7,"Traits":["Conqueror","Watcher"]}

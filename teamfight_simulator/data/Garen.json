@@ -1,0 +1,1 @@
+{"Name":"Garen","Role":"Attack Tank","Position":"Front","Cost":4,"HexRange":1,"Health":[1000,1800,3240],"StartMana":60,"Mana":125,"AttackDamage":[65,98,146],"Armor":60,"MagicResist":60,"AttackSpeed":0.6,"Traits":["Emissary","Watcher"]}

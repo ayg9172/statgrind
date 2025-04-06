@@ -1,0 +1,1 @@
+{"Name":"Morgana","Role":"Magic Caster","Position":"Back","Cost":1,"HexRange":4,"Health":[500,900,1620],"StartMana":0,"Mana":40,"AttackDamage":[30,45,68],"Armor":20,"MagicResist":20,"AttackSpeed":0.7,"Traits":["Black Rose","Visionary"]}

@@ -1,0 +1,1 @@
+{"Name":"Jinx","Role":"Attack Caster","Position":"Back","Cost":5,"HexRange":4,"Health":[900,1620,2916],"StartMana":0,"Mana":60,"AttackDamage":[60,90,135],"Armor":40,"MagicResist":40,"AttackSpeed":0.8,"Traits":["Rebel","Ambusher"]}

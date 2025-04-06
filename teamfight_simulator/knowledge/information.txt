@@ -1,0 +1,83 @@
+Each champion, item, ability, augment, active trait, and exclusive to set 13 anomaly will be processed using registration functions.
+
+Each combat runs on a single thread, therefore, we can be assured no two events or behaviors can conflict. 
+We want to be mindful of complex interactions still and just make sure they are mostly correct
+
+Luckily we do not need to worry about interaction between FPS and ticks. There's no animation timings that 
+need to match the tick timings since we use a textual user interface. 
+HOWEVER, ther real game relies on animation timings and often applies damage or shoots projectiles based 
+on the animation. We will have to worry about getting those timings close to accurate, because if 
+we assume the cast animation is instant or too short, characters hindered by cast animation would be overpowered and vice versa. 
+Certain mana items are not great or preferred due to the cast animations.
+
+
+Anything that is not implemented yet, but based on your knowledge of TFT mechanics, should be doable and is planned.
+Anything feels like it needs to be changed, should only be changed because it fixes a bug or helps complete the project sooner.
+
+Pathfinding might be a pain point in the future due to performance. But for now, because 
+it is somewhat similar to game behavior, pathfinding and targeting is potentially redone on each movement.
+Therefore blocking is not a huge concern so far.
+
+Item modifiers and their effects are both done in their registration function. 
+Since some items only modify and items have varying level of mixing modification and effects,
+it is easier to produce code that visibly looks reasonable and correct 
+by performing all necessary computations within the item registration function.
+
+Since we can easily clear and reregister items, traits, and etc. We will not worry about 
+what happens when the Player or the simulation wants to make modifications between combats. 
+We can just recreate the same combat with the necessary changes. 
+Only once we see clearly profiled performance issues, we may optimize dynamic changes to the 
+set of items, traits, and etc.
+
+Ranged champions and casts only apply damage once their projectile reaches the target.
+This will be important to reflect within the code.
+
+We have a Unit Events system that is inspired by ability and item descriptions 
+of effects, modifiers, behaviors, and etc. that may result from different things happening such as on Attack. 
+We will continue improving and extending it to improve accuracy and ease of thinking about the code. 
+(Although obviously not to the enterprise hyper-scalable levels, just reasonable ones that get stuff done)
+
+We have a rudimentary effects system that allows for duration and early expiration.
+We will process each effect according to its definition every tick. 
+Unit behaviors may be modified or suspended during the effect.
+
+The targeting system has weird quirks in how it selects a target. 
+We want to improve and optimize it since pathfinding is expensive, 
+however we want to stay true to the game's target selection that 
+has quirks that we know and quirks that we don't know yet. 
+
+Each champion ability will be registered and given a processing function for each tick the cast animation is occurring. 
+During the registration phase we can apply passive and active modifiers that the champion may obtain from their ability. 
+The function assigned to the unit's struct will process the active activity behavior. 
+Since all abilities, items, traits, augments, and set 13 anomalies have access to the unit and therefore combat structs,
+all the information is readily accessible to make complex modifiers, state transitions, and interactions work.
+
+We will count the trait count based on the Player unit count and the emblems these units hold. 
+The counting and trait thresholds are easy to calculate, but we will want to implement the trait effects 
+by calling a function to register the traits modifiers, behaviors on events, and etc. on each unit that partakes 
+in the trait. Some traits might also modify all units, like set 13 bruiser giving all friendly units some amount of hp. 
+When a unit dies, it still counts towards the trait!
+
+Since we are not enterprise, we can use a switch statement to find the registration function. 
+
+There are additive modifiers and multiplicative ability modifiers. 
+Additive modifiers are added to the base stat. 
+Multiplicative modifiers are multiplied to the base stat. 
+We process additive modifiers and then multiplicative modifiers. 
+Attack Speed is often a multiplicative multiplier, because even though attack speed is a float, the modifiers often multiplies the attack speed value.
+Whereas Omnivamp is a percentage, but we use an additive multiplier in order to increase this percentage by the added amount.
+Attack Damage, Health, and more can be either added, multiplied, or both.
+
+Each multiplier value is obtained using a function assigned by a registration function from an item, trait, ability, or any other source. 
+We use a function because many items have conditions for what the multiplier value is based on parameters such as:
+- number of stacks 
+- health 
+- player gold 
+- number of enemies targeting unit 
+We could use an object or a map to represent all of these parameters, but for readability, modification, and easily reasoning about the correctness of the code,
+we will use closures in order to contain parameters that will help modifier accessor functions make the necessary calculations.
+
+Combat runs on a tick based system. As far as I am aware, TFT tick rate is 30.33
+Units will get processed in a random order each tick. 
+In fact, anything where one choice may be chosen over another but their weights are equal, we want to choose the random one. 
+

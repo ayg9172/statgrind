@@ -1,0 +1,1 @@
+{"Name":"Leona","Role":"Magic Tank","Position":"Front","Cost":2,"HexRange":1,"Health":[800,1440,2592],"StartMana":50,"Mana":90,"AttackDamage":[55,83,124],"Armor":50,"MagicResist":50,"AttackSpeed":0.6,"Traits":["Academy","Sentinel"]}

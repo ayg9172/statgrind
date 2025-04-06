@@ -1,0 +1,1 @@
+{"Name":"Twisted Fate","Role":"Magic Caster","Position":"Back","Cost":3,"HexRange":4,"Health":[700,1260,2268],"StartMana":25,"Mana":75,"AttackDamage":[35,53,79],"Armor":25,"MagicResist":25,"AttackSpeed":0.7,"Traits":["Enforcer","Quickstriker"]}

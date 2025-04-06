@@ -1,0 +1,1 @@
+{"Name":"Steb","Role":"Magic Tank","Position":"Front","Cost":1,"HexRange":1,"Health":[650,1170,2106],"StartMana":30,"Mana":90,"AttackDamage":[55,83,124],"Armor":45,"MagicResist":45,"AttackSpeed":0.55,"Traits":["Enforcer","Bruiser"]}

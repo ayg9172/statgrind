@@ -1,0 +1,133 @@
+Adaptive Helm
+Combat Start: Gain different bonuses based on starting position.
+Front Two Rows: 40 Armor and Magic Resist. Gain 1 Mana when struck by an attack.
+Back Two Rows: 20 Ability Power. Gain 10 Mana every 3 seconds.
+
+Archangel's Staff
+Combat start: Gain 30 Ability Power every 5 seconds.
+
+Bloodthirster
+Gain 20% Omnivamp.
+Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.
+Omnivamp: heal for some of damage dealt
+
+Blue Buff
+Max mana reduced by 10. 
+When the holder gets a takedown, they deal 8% more damage for 8 seconds.
+[Unique - only 1 per champion]
+
+Gargoyle's Stoneplate
+Gain 5% max health.
+Take 8% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies.
+Cooldown: 2 seconds
+
+Crownsguard
+Combat start: Gain a 30% max Health Shield for 8 seconds.
+When the shield expires, gain 35 Ability Power.
+
+Deathblade
+Deal 7% bonus damage.
+
+Dragon's Claw
+Gain 9% max health.
+Every 2 seconds, heal 5% max Health.
+
+Edge of Night 
+Once per combat: At 60% Health, briefly become untargetable and shed negative effects. Then, gain 15% bonus Attack Speed.
+[Unique - only 1 per champion]
+
+Evenshroud
+30% Sunder enemies within 2 hexes. Gain 25 Armor and Magic Resist for the first 10 seconds of combat.
+Sunder: Reduce Armor
+
+Gargoyle Stoneplate
+Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.
+
+Giant Slayer
+Deal 25% more damage to enemies with more than 1750 maximum Health.
+
+Guardbreaker
+After damaging a Shield, deal 25% more damage for 3 seconds.
+
+Guinsoo's Rageblade
+Attacks grant 5% stacking Attack Speed.
+
+Hands of Justice:
+Gain 2 effects:
+• 15% Attack Damage and 15 Ability Power.
+• 15% Omnivamp.
+Each round, randomly double 1 of these effects.
+
+
+Hextech Gunblade
+Grant 20% Omnivamp.
+Heal the lowest percent Health ally for 20% of damage dealt.
+
+
+Infinity Edge
+Abilities can critically strike.
+If the holder's abilities can already critically strike, gain 10% Critical Strike Damage instead.
+
+Ionic Spark
+30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 160% of their maximum Mana.
+
+Jeweled Gauntlet
+Abilities can critically strike.
+If the holder's abilities can already critically strike, gain 10% Critical Strike Damage instead.
+
+Last Whisper
+Physical damage 30% Sunders the target for 3 seconds. This effect does not stack.
+[Unique - only 1 per champion]
+
+Morellonomicon
+Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.
+[Unique - only 1 per champion]
+
+Nashor's Tooth
+After casting an Ability, gain 40% Attack Speed for 5 seconds.
+
+Protector's Vow
+Once per combat at 40% Health, gain a 25% max Health Shield that lasts 5 seconds and gain 20 Armor and 20 Magic Resist.
+
+Quicksilver
+Combat start: Gain immunity to crowd control for 14 seconds. During this time, gain 4% Attack Speed every 2 seconds.
+
+Rabadon's Deathcap
+Deal 20% bonus damage.
+
+Red Buff
+Deal 6% bonus damage.
+Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds.
+
+Redemption
+Heal allies within 1 hex for 15% of their missing Health every 5 seconds. They also take 10% less damage for 5 seconds (damage reduction does not stack).
+[Aura item]
+
+Runaan's Hurricane
+Attacks fire a bolt at a nearby enemy, dealing 55% Attack Damage as physical damage.
+
+Spear of Shojin
+Attacks grant 5 bonus Mana.
+
+Statikk Shiv
+Every 3rd attack deals 35 magic damage and 30% Shreds 4 enemies for 5 seconds.
+
+Steadfast Heart
+Take 8% less damage. While above 50% Health, take 15% less damage instead.
+
+Sterak's Gage
+Once per combat at 60% Health, gain 25% max Health and 35% Attack Damage.
+
+Sunfire Cape
+Every 2 seconds, deal 1% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds.
+
+Thief's Gloves
+Each round: Equip 2 random items.
+[Consumes 3 item slots.]
+
+Titan's Resolve
+Gain 2% Attack Damage and 1 Ability Power when attacking or taking damage, stacking up to 25 times.  
+At full stacks, gain 20 Armor and 20 Magic Resist.
+
+Warmog's Armor
+Gain 8% max health.

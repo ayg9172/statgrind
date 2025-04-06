@@ -1,0 +1,1 @@
+{"Name":"Draven","Role":"Attack Carry","Position":"Back","Cost":1,"HexRange":4,"Health":[500,900,1620],"StartMana":30,"Mana":60,"AttackDamage":[55,83,124],"Armor":15,"MagicResist":15,"AttackSpeed":0.7,"Traits":["Conqueror","Pit Fighter"]}

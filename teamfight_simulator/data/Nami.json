@@ -1,0 +1,1 @@
+{"Name":"Nami","Role":"Magic Caster","Position":"Back","Cost":3,"HexRange":4,"Health":[700,1260,2268],"StartMana":0,"Mana":60,"AttackDamage":[40,60,90],"Armor":25,"MagicResist":25,"AttackSpeed":0.7,"Traits":["Emissary","Sorcerer"]}

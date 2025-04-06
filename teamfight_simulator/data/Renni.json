@@ -1,0 +1,1 @@
+{"Name":"Renni","Role":"Attack Tank","Position":"Front","Cost":3,"HexRange":1,"Health":[850,1530,2754],"StartMana":40,"Mana":100,"AttackDamage":[55,83,124],"Armor":50,"MagicResist":50,"AttackSpeed":0.65,"Traits":["Chem-Baron","Bruiser"]}

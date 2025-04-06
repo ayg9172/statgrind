@@ -1,0 +1,1 @@
+{"Name":"Powder","Role":"Magic Caster","Position":"Back","Cost":1,"HexRange":4,"Health":[500,900,1620],"StartMana":40,"Mana":120,"AttackDamage":[35,53,79],"Armor":15,"MagicResist":15,"AttackSpeed":0.7,"Traits":["Family","Scrap","Ambusher"]}

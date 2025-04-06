@@ -1,0 +1,46 @@
+The project is currently working on Set 13 of Teamfight Tactics also known as TFT.
+It is important to make information is valid and applicable to Set 13.
+Units, Champions, Traits, Augments, Items, and so on may be different in past and future sets.
+
+The UI code is okay to be janky and somewhat less performant. Any UI suggestions or comments
+have to be geared towards making code easier to reason about, observe, and write. 
+Stylistic comments and refactoring that produce the same result and do not contribute to 
+progressing the simulator to a ready state sooner might not be done.
+
+Since I started writing documentation and the knowledge base after I wrote a lot of code, 
+there may be behaviors and aspects of the code that are intended to simulate the game based 
+on my knowledge of the game. Correctness is important to me, so if something seems like it 
+will cause an issue, weird interaction, or is buggy definitely mention it. However, make sure 
+that parts of the code are not corrected just for the sake of correctness, and that corrections 
+actually do fix the simulation.
+
+There are generally 60+ units, 20+ traits, 300+ augments, and many dozens of items in each set. 
+
+Although we may support it in the future, the end user will not be playing the game. 
+We want to simulate fights and different team, item, and trait compositions.
+
+This simulator is completely separate from the game and has no knowledge of the inner workings of the actual game 
+(Except for the documentation and stats provided by TFT user interface, TFT stats websites, TFT forums, TFT developers, and etc.)
+
+A feature we will support in Set 13 but is unlikely to be part of Set are anomalies.
+An anomaly changes a unit's stats, potentially adds effects, potentially changes behavior. 
+
+The first goal is to get the combat simulation to be accurate.
+We will not be a 100% accurate because we need to figure out:
+- Cast animation times
+- Movement speeds 
+- Ability quirks 
+- Undocumented Interactions
+It is okay if we are not a 100% accurate because the fights are not deterministic.
+There are elements of luck. 
+As long as the behavior is really close to the documented behavior, we may get good findings.
+
+Our goal is to get things done. Correctness is of really high priority.
+When we find a really high value restructuring and refactoring idea, we will implement it.
+However, we will avoid restructuring because of style, readability, maintainability.
+We definitely want the code to be easy to reason about and avoid roundabout ways of doing things though. 
+
+We will be using lots of float values to multiply stats together, but the resulting stat will usually be applied and displayed as an integer.
+There is a loss of precision here, but as long as we're mostly accurate to the behavior of the actual game that's fine. 
+
+Eventually we will figure out what quirks the game has and uses to round the floating values, and try to use the same rounding functions to match the actual game.

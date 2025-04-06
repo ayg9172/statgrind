@@ -1,0 +1,1 @@
+{"Name":"Sett","Role":"Magic Tank","Position":"Front","Cost":2,"HexRange":1,"Health":[850,1530,2754],"StartMana":50,"Mana":100,"AttackDamage":[60,90,135],"Armor":50,"MagicResist":50,"AttackSpeed":0.6,"Traits":["Rebel","Bruiser"]}

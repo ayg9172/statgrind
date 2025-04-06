@@ -1,0 +1,82 @@
+1 cost
+Amumu: Passive: Reduce all incoming damage by 12/15/25. Every second, emit sparks that deal 10/15/25 (AP) magic damage to adjacent enemies.
+Darius: Spin, dealing 132/198/297 (AD) physical damage to adjacent enemies and healing 150/175/200 (AP). Apply a 110/165/248 (AD) physical damage bleed to target over 4 seconds.
+Draven: Passive: If Draven has an empowered axe in hand, his next attack will throw it, dealing a total of 87/131/198 (AD) physical damage. Empowered axes return to Draven after hitting an enemy. Active: Spin an empowered axe.
+Irelia: Enter a defensive stance and gain 400/475/575 (AP) Shield that rapidly decays over 3 seconds. When it expires, deal 70/100/150 (AP) magic damage + 30% of the damage absorbed to enemies around and in front of Irelia.
+Lux: Grant 160/180/240 (AP) Shield to the lowest current Health ally. Lux's next attack deals 360/540/900 (AP) bonus magic damage.
+Maddie: Fire 6 shots towards the farthest enemy that deal 73/109/183 (AD) physical damage to the first enemy they hit.
+Morgana: Curse the nearest non-cursed enemy, dealing 525/780/1300 (AP) magic damage over 10 seconds and reducing the effectiveness of shields used on them by 50%.
+Powder: Send a monkey towards the largest group of enemies, causing a 2-hex radius explosion on impact. Enemies hit take 350/500/700 (AP) magic damage, reduced by 30/30/25% for each hex they are away from the epicenter. Wound and 1% Burn applied for 5 seconds to all enemies hit.
+Singed: Gain 50%/50%/60% (AP) Durability and grant the ally who has dealt the most damage this round 100/120/160% Attack Speed, decaying over 4 seconds.
+Steb: Passive: On heal, heal the 2 closest allies for 25% of the amount. Active: Heal for 270/310/360 (AP) and strike target for 260/390/585 (AP) magic damage.
+Trundle: Heal 200/220/250 (AP) and chomp target for 140/210/315 (AD) physical damage. Both effects are increased by up to 75% based on Trundle's missing Health.
+Vex: Deal 220/330/550 (AP) magic damage to target and create a one-hex radius zone of darkness around them. After a brief delay, deal 110/165/275 (AP) magic damage to enemies still in the zone.
+Violet: Jab target 2 times for 68/101/152 (AD) physical damage each. Then uppercut them, dealing 185/278/416 (ADAP) physical damage and briefly knocking them up.
+Zyra: Send vines towards the current target, Stunning them for 1 second and dealing 260/390/585 (AP) magic damage. Then smaller vines seek out the 2 nearest enemies and deal 95/140/215 (AP) magic damage to them. Experiment Bonus: Ability damage bleeds enemies for 50% bonus true damage over 2 seconds.
+
+2 cost
+Akali: Throw a shuriken at target, dealing 80/120/185 (AP) magic damage and marking them to take 15% more damage for 4 seconds. Then dash away from target. After a brief delay, dash towards them and deal 240/360/550 (AP) magic damage.
+Camille: Kick the target, dealing 145/217/363 (ADAP) Adaptive Damage. Heal for 33% of the damage dealt. Adaptive Damage: Uses the damage type the target resists less
+Leona: Fortify for 3 seconds, gaining 50% (AP) Durability. Afterwards, deal 115/175/270 (AP) magic damage to adjacent enemies.
+Nocturne: For 6 seconds, attacks also cause adjacent enemies to bleed for 93/142/245 (AD) physical damage over 1 second.
+Rell: Gain 300/350/400 (AP) Shield for 4 seconds. Lance enemies in a line for 120/180/270 (AP) magic damage and steal 10/12/15 Armor and Magic Resist from enemies hit.
+Renata Glasc: Fire a pair of missiles at target. Allies they pass through gain 95/120/150 (AP) Shield for 3 seconds. When they collide, they deal 310/465/700 (AP) magic damage to target and 155/230/350 (AP) magic damage to adjacent enemies.
+Sett: Pull in an enemy on either side and slam them together, dealing 180/270/420 (AP) magic damage and Stunning them for 1.5/1.5/2 seconds. If only one enemy is grabbed, the damage and Stun duration are increased by 50%.
+Tristana: Fire a cannonball at target, dealing 271/406/611 (AD) physical damage. If they die, the cannonball ricochets to the nearest enemy, dealing the overkill damage. When it does, permanently gain 1% Attack Damage. (Current Bonus: % AD)
+Urgot: Fire an explosive charge, dealing 185/275/446 (AD) physical damage to target and 110/163/261 (AD) physical damage to adjacent enemies. 20% Sunder all enemies hit for 6 seconds. Sunder: Reduce Armor Experiment Bonus: Dash to targets. On cast, gain 8% max Health Shield and 20% Attack Speed for 5 seconds.
+Vander: Stop attacking and brace for 2.5 seconds, gaining 100/125/150 (AP) Armor and Magic Resist. Vander's next attack is replaced with a strike that deals 200/300/450 (AD) physical damage, increased by 50/75/113 (AD) physical damage for each 1 or 2 cost champion on your team.
+Vladimir: Heal 200/240/300 (AP) and deal 140/210/325 (AP) magic damage to the target.
+Zeri: Passive: Every 3rd attack is replaced with a spark that deals 100/150/223 (AD) physical damage to target and 100/150/223 (AD) physical damage to 2 nearby enemies.
+Ziggs: Toss a bomb at target, dealing 180/270/450 (AP) magic damage. 3 mini-bombs fly out, dealing 90/135/200 (AP) magic damage to random enemies.
+
+3 cost
+Blitzcrank: Passive: After surviving damage, deal 3% of the damage absorbed as magic damage to target. Active: Gain 470/500/550 (AP) Shield for 4 seconds. Shock the nearest 3 enemies for 40/60/100 (AP) magic damage and reduce their damage by 10% for 4 seconds.
+Cassiopeia: Blast target for 230/345/550 (AP) magic damage. Every third cast, splash miasma to 2 enemies within 3 hexes, dealing 160/240/385 (AP) magic damage to each.
+Ezreal: Fire a shot towards current target that deals 101/152/232 (AD) physical damage to all enemies within 1 hex. Then, deal 101/152/232 (AD) physical damage to the unit in the center of the blast.
+Gangplank: Restore 100/125/150 (AP) Health. Then slash, dealing 170/255/383 (AD) physical damage to enemies in a line. If only one enemy is hit, the damage is doubled.
+KogMaw: Passive: Attacks deal 48/72/120 (AP) bonus magic damage. Active: Gain 25% stacking Attack Speed for the rest of combat. After every 3 casts, gain +1 Range.
+Loris: Gain 525/600/700 (AP) Shield for 4 seconds. It redirects 50% of damage taken by adjacent allies. When it expires, deal 150/225/360 (AP) magic damage in a cone.
+Nami: Launch a wave at target that bounces 3 times to enemies within 3 hexes and deals 120/180/290 (AP) magic damage.
+Nunu & Willump: For 3 seconds, gain 50%/50%/55% (AP) Durability and create a 2-hex cloud of noxious fumes that deals 30/45/65 (AP) magic damage to enemies within. Afterwards, detonate the cloud and deal 150/225/340 (AP) magic damage to all enemies within. Experiment Bonus: After dealing damage, deal 3% max Health bonus magic damage (1s cooldown).
+Renni: Heal 428/555/788 (HealthAP) over 1.5 seconds. For the duration, raise target into the air, Stunning them, and dealing 275/413/619 (AD) physical damage. Afterwards, slam them down, dealing 110/165/248 (AD) physical damage to all adjacent enemies.
+Scar: Lob bombs at the nearest 3 enemies, Stunning them for 1.5/1.5/1.75 seconds and dealing 80/120/180 (AP) magic damage to each. Heal 220/240/270 (AP).
+Smeech: Leap towards the enemy with the fewest items within 4 hexes. Slash 3 times, dealing a total of 420/630/958 (AD) physical damage. If they die, leap again, dealing 30% less damage.
+Swain: Heal 240/300/380 (AP) and ascend for 6 seconds. While ascended, heal 70/90/125 (AP) and deal 40/60/95 (AP) magic damage to adjacent enemies every second. On takedown, the ascension's duration is extended by 2 seconds.
+Twisted Fate: Throw 3 cards at different targets. Blue Card: Restore 90/110/140 (AP) Health to the lowest Health ally. Red Card: Deal 110/165/255 (AP) magic damage to the largest circle of enemies. Yellow Card: Deal 230/345/535 (AP) magic damage to target and Stun them for 1 second.
+
+4 cost 
+Ambessa: Ambessa switches between two stances on cast: Chains: Gain +1 Range. Attacks deal 98/146/512 (AD) physical damage. On cast, dash to target and strike in a half-circle, dealing 163/244/731 (AD) physical damage to enemies hit. Fists: Gain 25%/25%/45% (AP) Omnivamp and attack twice as fast. On cast, briefly Stun target before slamming them into the ground, dealing 325/488/1755 (AD) physical damage, then dash away.
+Corki: Lock onto target and strafe to a nearby position, unleashing 21/21/35 missiles split between the target and all enemies within two hexes. Each missile deals 29/43/124 (AD) physical damage and reduces Armor by 1. Every 7th missile deals 29/43/124 (AD) physical damage and reduces Armor by 1.
+Dr. Mundo: Become energized and heal 848/1106/3142 (HealthAP) over 2 seconds. While energized, deal 120/180/1000 (AP) magic damage to a nearby enemy each second. Afterwards, deal 77/139/1247 (Health) magic damage to all enemies within 2 hexes. Experiment Bonus: Gain 120 max Health. On each takedown, gain 60 more max Health.
+Ekko: Summon an assault of afterimages that deals 290/435/1200 (AP) magic damage to the target and 145/215/450 (AP) magic damage to 2/2/4 other nearby enemies. Afterimages reduce their target's Magic Resist by 5 for the rest of combat.
+Elise: Jump to a nearby hex and web all enemies within 2 hexes, Stunning them for 1.75/2/8 seconds and dealing 120/180/1200 (AP) magic damage. Heal 400/450/2000 (AP).
+Garen: Passive: After dealing damage, heal 15/27/162 (Health). Active: Gain 350/490/1986 (HealthAP) Shield for 4 seconds. Slam a massive sword on target, dealing 163/244/2194 (AD) physical damage to them and 81/122/1097 (AD) physical damage to enemies within 2 hexes.
+Heimerdinger: Fire 5/5/7 missiles at random enemies that deal 50/75/225 (AP) magic damage. Each cast fires 1 more missile than the last.
+Illaoi: Gain 50/50/90% Durability for 3 seconds. Over the duration, drain 50/75/225 (AP) Health from the nearest 4/4/10 enemies. Then slam down, dealing 72/108/840 (ArmorMR) magic damage to all enemies within 2 hexes.
+Silco: Throw a canister at target, dealing 100/200/1000 (AP) magic damage to them and releasing 4/4/8 monstrosities. Monstrosities attack 5 times and deal 38/57/100 (AP) magic damage per attack.
+Twitch: For the next 8 attacks, gain 85% Attack Speed, infinite range, and replace attacks with a piercing bolt that targets random enemies. Bolts deal 116/172/593 (AD) physical damage, reduced by 40/40/20% for each enemy they pass through. Experiment Bonus: After every 5 attacks, deal physical damage to the nearest enemy equal to 15% of their max Health.
+Vi: Gain 280/325/1200 (AP) Shield for 3 seconds, then Stun target for 1.5 seconds. Slam them down, dealing 450/675/2025 (AD) physical damage to them and causing a shockwave in their row. Enemies hit take 135/203/844 (AD) physical damage and are briefly knocked up.
+Zoe: Launch a star at target that deals 140/210/450 (AP) magic damage. It bounces to the farthest enemy within 4 hexes, then bounces back to the target. This effect repeats 2/2/4 times, hitting a different enemy each time.
+
+5 cost 
+Caitlyn: Enter a sniper's stance and call in an airship that circles the battlefield for 5 seconds, dropping 4/4/20 bombs at a random cluster of enemies over the duration. Bombs deal 168/251/1484 (AD AP) physical damage in a one-hex circle. Whenever an enemy is caught in the epicenter of an Air Raid blast, reduce their Armor and Magic Resist by 20 and fire a shot towards them, dealing 230/344/2491 (AD) physical damage.
+Jayce: Passive: Summon a placeable Hextech Forge. On cast, the 3 allies closest to it gain 200/275/1800 (AP) Shield for 4 seconds. If it's dead, revive it with 100% Health. Active: Summon 2 Hexgates and knock target into one of them, dealing 250/375/2250 (AD) physical damage and sending them flying back to their original position. While flying, they deal 113/169/1688 (AD) physical damage to all other enemies in the path.
+Jinx: Jinx alternates between Zap, Flame Chompers, and Death Rocket for her ability. Zap: Deal 159/239/2700 (AD) physical damage to enemies in a line and Stun them for 1.25/1.5/10 seconds. Flame Chompers: Deal 159/239/2700 (AD) physical damage to 3 1-hex circles of enemies. Death Rocket: Fire a rocket at the center of the board that 480/720/12451 (ADAP) physical damage to ALL enemies, reduced by 10% for each hex they are away from the epicenter.
+LeBlanc: Chain together the nearest 4/4/20 enemies for 5 seconds, dealing 650/975/5000 (AP) magic damage split between them. When one takes damage, 18/25/100% of the amount is split as bonus true damage to the others. LeBlanc's next 3 attacks deal 160/240/900 (AP) bonus magic damage, increased by 50% for each enemy killed by the initial damage.
+Malzahar: Summon a gate in a 5-hex line across target. Enemies hit take 80/120/1000 (AP) magic damage and are 20% Shredded for 4 seconds. Malzahar spreads 5 stacks of infection between enemies hit. Infection deals 14/21/400 (AP) magic damage per second for the rest of combat. This effect can stack infinitely. When an infected target dies, they spread their stacks to nearby enemies. Shred: Reduce Magic Resist
+Morderkaiser: Briefly gain 40% Durability and summon a massive claw, dealing 160/240/800 (AP) magic damage to the most enemies in a line. The 4 closest enemies take 25% more damage and are pulled towards Mordekaiser. For the next 10 seconds, gain 30% Omnivamp, +1 Attack Range, and replace every attack with a slam that deals 330/500/3000 (AP) magic damage to target and 85/125/1500 (AP) magic damage to all other enemies within 2 hexes.
+Rumble: Call down a rain of 5 missiles on target's row that each deal 500/750/4000 (AP) magic damage, Wound, and 1% Burn units hit for 5 seconds. For each missile that doesn't hit an enemy, restore 20 Mana. If there's only 1 enemy left, fire all of the missiles at them.
+Sevika: TODO: Add entry for Sevika's ability.
+
+6 cost
+Mel: Dash to a nearby hex, then gain 300/600/10000 Shield and grant the same Shield to 2 nearby allies. 50% of the damage blocked by the Shields is stored as unstable energy. After dashing, deal 180/450/2700 (AP) magic damage to 3 nearby enemies. Every 3rd cast, unleash the unstable energy + 1390/3475/99999 (AP) as magic damage split between the 5 nearest enemies.
+Victor: Passive: Attacks are replaced with a Death Ray that deals 70/175/2000 (AP) magic damage and 35/90/1000 true damage in a 2-hex line. Enemies hit are 30% Sundered and Shredded for 5 seconds. Active: Summon a chaos storm that engulfs the battlefield, knocking up ALL enemies into the air for 2/3/30 seconds. At the end of the duration, slam them to the ground, dealing 120/300/9999 (AP) plus 8/20/100% of their max Health as magic damage.
+Warwick: Passive: While Bloodfrenzied, move faster, gain 0.2/0.25/1.1% (AP) Omnivamp, 40% Attack Speed, and deal 378/857/6657 (ADAS) physical damage each second to target. After killing 5 enemies, become Unstoppable and Bloodfrenzied for the rest of combat. Active: Become Bloodfrenzied for 4 seconds. Experiment Bonus: On kill, Stun enemies adjacent to the dead target for 1 second.
+
+
+Definitions:
+Sunder: Reduce Armor
+Shred: Reduce Magic Resist
+Wound: Reduce healing received by 33%
+Burn: Deal a percent of the target's max Health as true damage every second
+Omnivamp: heal for some of damage dealt

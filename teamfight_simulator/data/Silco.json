@@ -1,0 +1,1 @@
+{"Name":"Silco","Role":"Magic Caster","Position":"Back","Cost":4,"HexRange":4,"Health":[800,1440,2592],"StartMana":30,"Mana":80,"AttackDamage":[40,60,90],"Armor":30,"MagicResist":30,"AttackSpeed":0.75,"Traits":["Chem-Baron","Dominator"]}

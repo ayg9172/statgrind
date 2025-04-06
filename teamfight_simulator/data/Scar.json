@@ -1,0 +1,1 @@
+{"Name":"Scar","Role":"Magic Tank","Position":"Front","Cost":3,"HexRange":1,"Health":[800,1440,2592],"StartMana":80,"Mana":155,"AttackDamage":[50,75,113],"Armor":50,"MagicResist":50,"AttackSpeed":0.65,"Traits":["Firelight","Watcher"]}
